@@ -8,5 +8,5 @@ Program allows you to input your current games and version number, and upon prog
 ## Screenshot
 ![Screenshot](/Screenshot.png)
 
-##Requires
+## Requires
 pip install Pillow
